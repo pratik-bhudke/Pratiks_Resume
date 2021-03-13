@@ -1,1 +1,2 @@
-# Pratiks_Resume
+# Pratik's Resume
+## My digital portfolio website.
