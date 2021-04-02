@@ -33,7 +33,7 @@ $(document).ready(function() {
             $('#main-footer p, #main-footer p a').css('color',color1);
         }
         
-        var css = '<style type="text/css">#main-nav.scrolled .nav li.active a, #main-nav.scrolled .nav a:hover {color:'+color1+';} #filter-works ul li.active a, #filter-works ul li:hover a{color:'+color1+'}#contact .contact-list a:hover{color:'+color1+'}</style>'
+        var css = '<style type="text/css">#main-nav.scrolled .nav li.active a, #main-nav.scrolled .nav a:hover {color:'+color1+';} #filter-works ul li.active a, #filter-works ul li:hover a{color:'+color1+'}#contact .contact-list a:hover{color:'+color1+'} #about .timeline a{color:'+color1+'} #about .timeline a:hover{color:'+color2+'}</style>'
         $('head').append(css);
         //$('#main-nav.scrolled .nav li.active a, #main-nav.scrolled .nav a:hover').css('color',color1);
         //$('#filter-works ul li.active a, #filter-works ul li:hover a').css('color',color1);
